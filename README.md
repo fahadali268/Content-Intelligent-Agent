@@ -154,5 +154,3 @@ Hindsight tests also available: `npm run memory:smoke`, `npm run memory:verify-m
 - Hindsight Cloud network access and valid server-side credentials are required for memory seeding and the real-memory demo.
 - Member 4's production LLM reasoning service is not present in this checkout; `askAgent` is an explicitly logged deterministic adapter over actual recalled Hindsight evidence.
 - No cloud deployment has been run from this workspace; service provisioning and environment values remain team actions.
-#   C o n t e n t - I n t e l l i g e n t - A g e n t  
- 
